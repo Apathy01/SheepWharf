@@ -1,0 +1,45 @@
+body, div, p, ul, ol, li, dl, dt, dd, table, tr, td, form, hr, fieldset, h1, h2, h3, h4, h5, h6, img, input {
+  margin: 0;
+  padding: 0; }
+
+ul {
+  list-style: none; }
+
+a {
+  text-decoration: none; }
+
+img {
+  display: block; }
+
+input, a, button {
+  outline: none; }
+
+.SheepWharf {
+  width: 100%;
+  background: #fff; }
+
+.textarea {
+  width: 1200px;
+  margin: 0 auto; }
+
+.header {
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  background: #f8f8f8;
+  font-size: 12px; }
+  .header .navLeft {
+    float: left; }
+    .header .navLeft .iAmBuyHand {
+      padding-left: 30px;
+      cursor: pointer; }
+    .header .navLeft .iAmBuyHand:hover {
+      color: #c33; }
+  .header .navRight {
+    float: right; }
+    .header .navRight .navList li {
+      float: left;
+      padding: 0 10px;
+      cursor: pointer; }
+    .header .navRight .navList li:hover {
+      color: #c33; }

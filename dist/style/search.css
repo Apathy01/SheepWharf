@@ -1,0 +1,28 @@
+.textarea .search {
+  height: 150px;
+  width: 100%;
+  margin-top: 15px; }
+  .textarea .search .logo {
+    float: left;
+    margin-top: 17px; }
+  .textarea .search .formSearch {
+    width: 450px;
+    height: 40px;
+    float: left;
+    margin: 37px 0 0 63px; }
+    .textarea .search .formSearch .inputSearch {
+      width: 370px;
+      height: 22px;
+      padding: 7px 10px;
+      background: #fff;
+      border: 1px solid red;
+      margin: 2px;
+      font-size: 16px;
+      color: #18181a; }
+    .textarea .search .formSearch .inputButton {
+      background: red;
+      width: 23px;
+      height: 23px;
+      border: 0; }
+  .textarea .search .code {
+    float: right; }
