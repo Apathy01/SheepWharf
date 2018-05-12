@@ -1,0 +1,148 @@
+.banner {
+  width: 100%;
+  position: relative; }
+  .banner .carousel li {
+    background: #ed0b37;
+    width: 100%;
+    margin: 0 auto; }
+    .banner .carousel li .area {
+      width: 1200px;
+      height: 400px;
+      margin: 0 auto; }
+      .banner .carousel li .area img {
+        width: 1200px;
+        height: 400px; }
+  .banner .LRBtn {
+    width: 1200px;
+    height: 40px;
+    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    margin-left: -600px;
+    top: 50%;
+    margin-top: -20px;
+    display: none; }
+    .banner .LRBtn .slideBtn {
+      position: relative;
+      top: 50%;
+      margin-top: -40px;
+      height: 80px;
+      width: 100%; }
+      .banner .LRBtn .slideBtn a {
+        width: 45px;
+        height: 80px;
+        display: block;
+        position: absolute;
+        background: url(../img/elf.png) no-repeat; }
+      .banner .LRBtn .slideBtn .prevBtn {
+        background-position: -320px -138px;
+        left: 0; }
+      .banner .LRBtn .slideBtn .nextBtn {
+        background-position: -366px -138px;
+        right: 0; }
+
+.banner:hover .LRBtn {
+  display: block; }
+
+.promise {
+  width: 100%;
+  background: #f8f8f8;
+  overflow: hidden; }
+  .promise .textarea {
+    line-height: 56px; }
+    .promise .textarea .bigSpan {
+      width: 25%;
+      height: 56px;
+      text-align: center;
+      display: block;
+      float: left; }
+      .promise .textarea .bigSpan i {
+        width: 30px;
+        height: 30px;
+        margin-right: 10px;
+        background: url(../img/elf.png) no-repeat;
+        display: inline-block;
+        vertical-align: middle; }
+      .promise .textarea .bigSpan span {
+        font-size: 16px;
+        color: #383838; }
+      .promise .textarea .bigSpan .promise1 {
+        background-position: 0 0; }
+      .promise .textarea .bigSpan .promise2 {
+        background-position: -30px 0; }
+      .promise .textarea .bigSpan .promise3 {
+        background-position: -60px 0; }
+      .promise .textarea .bigSpan .promise4 {
+        background-position: -90px 0; }
+    .promise .textarea .thirdSpan {
+      width: 24%; }
+
+.inner {
+  width: 100%; }
+  .inner .textarea h3 {
+    margin-top: 40px;
+    overflow: hidden; }
+    .inner .textarea h3 span {
+      float: left;
+      display: block;
+      font-size: 20px;
+      color: #383838; }
+      .inner .textarea h3 span i {
+        vertical-align: middle;
+        width: 24px;
+        height: 24px;
+        background: url(../img/elf.png) no-repeat;
+        display: inline-block;
+        background-position: 0 -30px;
+        margin-right: 10px; }
+      .inner .textarea h3 span .world {
+        background-position: -48px -30px; }
+    .inner .textarea h3 a {
+      float: right;
+      display: block;
+      color: #646464;
+      font-size: 17px; }
+      .inner .textarea h3 a em {
+        vertical-align: middle;
+        width: 24px;
+        height: 24px;
+        background: url(../img/elf.png);
+        background-position: -192px -33px;
+        display: inline-block; }
+  .inner .textarea .carouselSecond {
+    width: 1200px;
+    height: 383px;
+    text-align: center;
+    line-height: 383px; }
+  .inner .textarea .worldList .listLeft {
+    width: 353px;
+    height: 289px;
+    float: left;
+    text-align: center;
+    position: relative;
+    background: url(../img/list1.png); }
+    .inner .textarea .worldList .listLeft .listLeftGrey {
+      width: 346px;
+      height: 140px;
+      background: url(../img/listLeftGrey.png);
+      margin: 40px auto 0; }
+      .inner .textarea .worldList .listLeft .listLeftGrey .listLeftWord {
+        font-size: 24px;
+        color: #383838;
+        width: 250px;
+        line-height: 38px;
+        padding-top: 30px;
+        margin: 0 auto;
+        height: 75px; }
+    .inner .textarea .worldList .listLeft span {
+      display: inline-block;
+      font-size: 16px;
+      margin-top: 50px;
+      color: #fff;
+      text-shadow: 0 2px 4px #564d42;
+      padding: 0 10px; }
+    .inner .textarea .worldList .listLeft .rightBorderSpan {
+      border-right: 1px solid #fff; }
+  .inner .textarea .worldList .listRight {
+    border-right: 1px solid #dedede;
+    height: 289px; }
