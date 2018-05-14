@@ -16,11 +16,13 @@ input, a, button {
 
 .SheepWharf {
   width: 100%;
-  background: #fff; }
+  background: #fff;
+  overflow: hidden; }
 
 .textarea {
   width: 1200px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  overflow: hidden; }
 
 .header {
   width: 100%;
@@ -43,3 +45,132 @@ input, a, button {
       cursor: pointer; }
     .header .navRight .navList li:hover {
       color: #c33; }
+
+.footer {
+  background: #fff;
+  width: 100%;
+  margin-top: 70px; }
+  .footer .footerRed {
+    padding: 10px 0;
+    height: 60px;
+    text-align: center;
+    background: url(../img/red.png) repeat-x #c33; }
+    .footer .footerRed a img {
+      display: inline-block; }
+  .footer .textarea .footerList {
+    width: 880px;
+    margin: 10px auto 15px;
+    text-align: left;
+    overflow: hidden; }
+    .footer .textarea .footerList ul {
+      float: left;
+      width: 170px;
+      font-size: 12px; }
+      .footer .textarea .footerList ul li {
+        font-size: 12px;
+        line-height: 26px;
+        padding: 3px 0; }
+        .footer .textarea .footerList ul li a {
+          color: #999; }
+        .footer .textarea .footerList ul li a:hover {
+          color: #1f7dd8; }
+      .footer .textarea .footerList ul li:nth-child(1) {
+        font-size: 14px;
+        font-weight: 600; }
+    .footer .textarea .footerList .footerUl {
+      float: right;
+      width: 190px;
+      font-size: 12px; }
+      .footer .textarea .footerList .footerUl h6 {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 26px; }
+      .footer .textarea .footerList .footerUl img {
+        width: 90px;
+        height: 90px;
+        display: inline-block; }
+      .footer .textarea .footerList .footerUl .span1 {
+        border: 1px solid #ddd;
+        display: block;
+        padding: 3px 1px 3px 5px;
+        margin-top: 5px;
+        text-decoration: none;
+        width: 82px; }
+        .footer .textarea .footerList .footerUl .span1 a {
+          vertical-align: middle;
+          display: inline-block;
+          margin: 0 2px;
+          color: #999; }
+          .footer .textarea .footerList .footerUl .span1 a .span2 {
+            background: url(../img/elf2.png);
+            display: inline-block;
+            background-position: -26px -131px;
+            width: 22px;
+            height: 20px; }
+  .footer .textarea .matouIntro {
+    text-align: center;
+    padding: 10px 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd; }
+    .footer .textarea .matouIntro a {
+      display: inline-block;
+      border-right: 1px solid #ddd;
+      padding: 0 10px;
+      color: #868686;
+      font-weight: 600;
+      font-size: 12px;
+      line-height: 1.5; }
+    .footer .textarea .matouIntro a:hover {
+      color: #1f7dd8; }
+  .footer .textarea .aboutMaTou {
+    margin: 0 auto;
+    width: 1100px;
+    overflow: hidden;
+    padding: 10px 0;
+    text-align: center; }
+    .footer .textarea .aboutMaTou a {
+      display: inline-block;
+      vertical-align: middle;
+      padding: 0 8px;
+      color: #bbb;
+      border-right: 1px solid #ccc;
+      margin: 5px 0;
+      height: 18px;
+      line-height: 18px;
+      font-size: 12px; }
+    .footer .textarea .aboutMaTou a:hover {
+      color: #1f7dd8; }
+    .footer .textarea .aboutMaTou .last {
+      border-right: none; }
+  .footer .textarea .friendLinks {
+    width: 760px;
+    margin: 10px auto;
+    clear: both;
+    height: 50px;
+    text-align: center;
+    font-size: 0;
+    letter-spacing: -4px; }
+    .footer .textarea .friendLinks a {
+      width: 128px;
+      height: 50px;
+      margin-right: 3px;
+      background: url(../img/friendLink.png) no-repeat;
+      display: inline-block; }
+    .footer .textarea .friendLinks .friendLink1 {
+      background-position: -5px -2px; }
+    .footer .textarea .friendLinks .friendLink2 {
+      background-position: -136px -2px;
+      width: 156px; }
+    .footer .textarea .friendLinks .friendLink3 {
+      background-position: -296px -2px;
+      width: 102px; }
+    .footer .textarea .friendLinks .friendLink4 {
+      background-position: -404px -2px;
+      width: 153px; }
+    .footer .textarea .friendLinks .friendLink5 {
+      background: url(../img/friend.png) no-repeat;
+      width: 150px; }
+  .footer .textarea .zxcvbnm a {
+    color: #666; }
+  .footer .textarea p {
+    text-align: center; }
