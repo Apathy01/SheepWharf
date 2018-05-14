@@ -170,7 +170,43 @@ input, a, button {
     .footer .textarea .friendLinks .friendLink5 {
       background: url(../img/friend.png) no-repeat;
       width: 150px; }
-  .footer .textarea .zxcvbnm a {
-    color: #666; }
-  .footer .textarea p {
-    text-align: center; }
+  .footer .textarea .qwer {
+    text-align: center;
+    color: #bababa;
+    font-size: 12px; }
+  .footer .textarea .zxcvbnm {
+    text-align: center;
+    font-size: 12px; }
+    .footer .textarea .zxcvbnm a {
+      color: #666; }
+  .footer .textarea .zxcvbnm:hover a {
+    color: #c33; }
+  .footer .textarea .asdfghjkl {
+    margin: 0 auto;
+    width: 268px;
+    height: 100px;
+    overflow: hidden; }
+    .footer .textarea .asdfghjkl a {
+      display: inline-block;
+      vertical-align: middle;
+      background-repeat: no-repeat;
+      margin-right: 5px; }
+      .footer .textarea .asdfghjkl a i {
+        background: url(../img/asd123.png);
+        background-size: 20px 20px;
+        width: 20px;
+        height: 20px;
+        display: block;
+        float: left; }
+      .footer .textarea .asdfghjkl a p {
+        float: left;
+        height: 20px;
+        line-height: 20px;
+        margin: 0 0 0 5px;
+        color: #939393;
+        font-size: 12px; }
+    .footer .textarea .asdfghjkl .asd1 {
+      width: 47px;
+      height: 47px;
+      background-position: -562px -2px;
+      background-image: url(../img/friendLink.png); }
