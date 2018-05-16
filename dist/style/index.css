@@ -33,7 +33,7 @@
         height: 80px;
         display: block;
         position: absolute;
-        background: url(../img/elf.png) no-repeat; }
+        background: url(../../img/elf.png) no-repeat; }
       .banner .LRBtn .slideBtn .prevBtn {
         background-position: -320px -138px;
         left: 0; }
@@ -60,7 +60,7 @@
         width: 30px;
         height: 30px;
         margin-right: 10px;
-        background: url(../img/elf.png) no-repeat;
+        background: url(../../img/elf.png) no-repeat;
         display: inline-block;
         vertical-align: middle; }
       .promise .textarea .bigSpan span {
@@ -92,7 +92,7 @@
         vertical-align: middle;
         width: 24px;
         height: 24px;
-        background: url(../img/elf.png) no-repeat;
+        background: url(../../img/elf.png) no-repeat;
         display: inline-block;
         background-position: 0 -30px;
         margin-right: 10px; }
@@ -115,7 +115,7 @@
         vertical-align: middle;
         width: 24px;
         height: 24px;
-        background: url(../img/elf.png);
+        background: url(../../img/elf.png);
         background-position: -192px -33px;
         display: inline-block; }
   .inner .textarea .carouselSecond {
@@ -132,11 +132,11 @@
       float: left;
       text-align: center;
       position: relative;
-      background: url(../img/list1.png); }
+      background: url(../../img/list1.png); }
       .inner .textarea .worldList .listLeft .listLeftGrey {
         width: 346px;
         height: 140px;
-        background: url(../img/listLeftGrey.png);
+        background: url(../../img/listLeftGrey.png);
         margin: 40px auto 0; }
         .inner .textarea .worldList .listLeft .listLeftGrey .listLeftWord {
           font-size: 24px;
@@ -215,13 +215,13 @@
           top: 59px;
           left: 52px;
           padding: 12px 20px 9px 29px;
-          background: url(../img/white.png) no-repeat; }
+          background: url(../../img/white.png) no-repeat; }
   .inner .textarea .bolangline {
     margin-top: 9px;
     width: 639px;
     height: 10px;
     text-align: center;
-    background: url(../img/bolangline.png) no-repeat;
+    background: url(../../img/bolangline.png) no-repeat;
     background-position: 0 0;
     position: relative; }
     .inner .textarea .bolangline span {
@@ -252,7 +252,7 @@
       .inner .textarea .bagDoctor .bagdoctor a:hover {
         color: #c33; }
   .inner .textarea .hotTitle {
-    background: url(../img/zhiline.png) no-repeat;
+    background: url(../../img/zhiline.png) no-repeat;
     background-position: 2px 8px;
     position: relative;
     width: 234px;
@@ -280,7 +280,7 @@
         display: none; }
         .inner .textarea .moreLunbo .smallLunbo span i {
           font-style: normal;
-          background: url(../img/elf.png) no-repeat;
+          background: url(../../img/elf.png) no-repeat;
           background-repeat: no-repeat;
           width: 20px;
           height: 40px;
@@ -342,7 +342,7 @@
       position: relative;
       margin-left: 10px; }
       .inner .textarea .hotBuy a i {
-        background: url(../img/elf.png);
+        background: url(../../img/elf.png);
         width: 80px;
         height: 80px;
         position: absolute;
@@ -357,13 +357,13 @@
       .inner .textarea .hotBuy a .angle4 {
         background-position: -240px -138px; }
     .inner .textarea .hotBuy .scene1 {
-      background: url(../img/hotBuy1.png); }
+      background: url(../../img/hotBuy1.png); }
     .inner .textarea .hotBuy .scene2 {
-      background: url(../img/hotBuy2.png); }
+      background: url(../../img/hotBuy2.png); }
     .inner .textarea .hotBuy .scene3 {
-      background: url(../img/hotBuy3.png); }
+      background: url(../../img/hotBuy3.png); }
     .inner .textarea .hotBuy .scene4 {
-      background: url(../img/hotBuy4.png); }
+      background: url(../../img/hotBuy4.png); }
   .inner .textarea .trouble {
     margin: 10px 0 10px -10px; }
     .inner .textarea .trouble ul {

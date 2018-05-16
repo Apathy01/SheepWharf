@@ -1,0 +1,102 @@
+.head {
+  height: 98px;
+  border-bottom: 2px solid #c33; }
+  .head .textarea {
+    clear: both;
+    height: 98px; }
+    .head .textarea .left {
+      float: left; }
+      .head .textarea .left a {
+        width: 308px;
+        height: 73px;
+        background: url(../../img/logo.png) no-repeat;
+        display: block;
+        float: left;
+        margin: 12px 0 13px; }
+    .head .textarea .right {
+      padding-top: 40px;
+      float: right;
+      line-height: 30px; }
+      .head .textarea .right a {
+        float: left;
+        padding: 0 8px;
+        color: #999;
+        font-size: 12px; }
+
+.textarea2 #register .reg_tabs {
+  height: 70px;
+  border-bottom: 2px solid #ddd;
+  position: relative; }
+  .textarea2 #register .reg_tabs .leftLi {
+    float: left; }
+    .textarea2 #register .reg_tabs .leftLi a {
+      padding: 0 40px;
+      font-size: 16px;
+      font-weight: 600;
+      border-bottom: 2px solid #f04e00;
+      height: 70px;
+      line-height: 70px;
+      float: left;
+      overflow: hidden;
+      border-bottom-color: #f04e00;
+      color: #f04e00;
+      background: url(../../img/jiantou.jpg) no-repeat bottom; }
+  .textarea2 #register .reg_tabs .sign {
+    position: absolute;
+    right: 0;
+    top: 39px;
+    font-size: 12px; }
+    .textarea2 #register .reg_tabs .sign a {
+      font-size: 12px;
+      color: #3368ff; }
+
+.textarea2 #register .inputLeft {
+  width: 680px;
+  float: left; }
+
+.textarea2 #register .inputRight {
+  height: 370px;
+  width: 192px;
+  overflow: hidden;
+  padding: 20px 30px 0;
+  background: url(../../img/right_bg.png) no-repeat 0 0;
+  float: right; }
+  .textarea2 #register .inputRight .hd {
+    padding: 10px 0;
+    font-size: 12px; }
+  .textarea2 #register .inputRight .bd {
+    border: 1px solid #e2e2e2; }
+    .textarea2 #register .inputRight .bd .signA {
+      padding: 5px 10px;
+      height: 24px;
+      line-height: 24px;
+      border-bottom: 1px dashed #e2e2e2;
+      margin-bottom: -1px; }
+      .textarea2 #register .inputRight .bd .signA a {
+        color: #666;
+        font-size: 12px; }
+        .textarea2 #register .inputRight .bd .signA a i {
+          display: inline-block;
+          cursor: pointer;
+          vertical-align: middle;
+          width: 24px;
+          background: url(../../img/elf3.png) no-repeat;
+          margin-right: 5px;
+          float: left; }
+        .textarea2 #register .inputRight .bd .signA a .i1 {
+          height: 21px;
+          background-position: -86px -235px; }
+        .textarea2 #register .inputRight .bd .signA a .i2 {
+          height: 16px;
+          background-position: -62px -235px; }
+        .textarea2 #register .inputRight .bd .signA a .i3 {
+          height: 20px;
+          background: url(../../img/weixin.png) no-repeat; }
+
+.copyWrite {
+  clear: both;
+  margin-top: 10px; }
+  .copyWrite p {
+    font-size: 12px;
+    color: #666;
+    text-align: center; }

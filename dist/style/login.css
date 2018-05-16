@@ -1,0 +1,128 @@
+.head {
+  height: 98px;
+  border-bottom: 2px solid #c33; }
+  .head .textarea {
+    clear: both;
+    height: 98px; }
+    .head .textarea .left {
+      float: left; }
+      .head .textarea .left a {
+        width: 308px;
+        height: 73px;
+        background: url(../../img/logo.png) no-repeat;
+        display: block;
+        float: left;
+        margin: 12px 0 13px; }
+    .head .textarea .right {
+      padding-top: 40px;
+      float: right;
+      line-height: 30px; }
+      .head .textarea .right a {
+        float: left;
+        padding: 0 8px;
+        color: #999;
+        font-size: 12px; }
+
+.textarea2 {
+  height: 450px; }
+  .textarea2 .t400 {
+    width: 900px;
+    margin: 50px auto 0;
+    height: 450px; }
+    .textarea2 .t400 .img_login {
+      width: 452px;
+      height: 260px;
+      margin-top: 30px;
+      float: left; }
+      .textarea2 .t400 .img_login a {
+        width: 452px;
+        height: 260px;
+        background: url(../../img/img_login.jpg);
+        display: block; }
+    .textarea2 .t400 .input_div {
+      width: 360px;
+      float: right;
+      margin-top: 30px; }
+      .textarea2 .t400 .input_div ul .gray_f1 {
+        font-size: 14px;
+        color: #666;
+        text-align: left; }
+        .textarea2 .t400 .input_div ul .gray_f1 b {
+          font-style: normal; }
+        .textarea2 .t400 .input_div ul .gray_f1 .line {
+          display: inline-block;
+          border-left: 1px solid #ccc;
+          width: 1px;
+          height: 13px;
+          vertical-align: middle; }
+        .textarea2 .t400 .input_div ul .gray_f1 a {
+          color: #666; }
+      .textarea2 .t400 .input_div ul li .input_login {
+        width: 360px;
+        border: 1px solid #ccc;
+        background-color: #efefef;
+        margin: 5px 0 1px; }
+        .textarea2 .t400 .input_div ul li .input_login .input_login_bk {
+          width: 350px;
+          margin: 5px;
+          padding: 10px 0;
+          text-align: center;
+          background-color: #fff; }
+          .textarea2 .t400 .input_div ul li .input_login .input_login_bk form {
+            width: 350px;
+            height: 200px; }
+            .textarea2 .t400 .input_div ul li .input_login .input_login_bk form .div_input {
+              height: 28px;
+              width: 300px;
+              margin: 0 auto 15px; }
+              .textarea2 .t400 .input_div ul li .input_login .input_login_bk form .div_input label {
+                font-size: 12px; }
+              .textarea2 .t400 .input_div ul li .input_login .input_login_bk form .div_input ul li {
+                float: left;
+                margin-left: 68px; }
+                .textarea2 .t400 .input_div ul li .input_login .input_login_bk form .div_input ul li input[type=checkbox], .textarea2 .t400 .input_div ul li .input_login .input_login_bk form .div_input ul li input[type=radio] {
+                  box-sizing: border-box;
+                  padding: 0;
+                  vertical-align: middle; }
+                .textarea2 .t400 .input_div ul li .input_login .input_login_bk form .div_input ul li input {
+                  line-height: normal; }
+              .textarea2 .t400 .input_div ul li .input_login .input_login_bk form .div_input #loginDiv {
+                text-align: left;
+                margin-left: 68px; }
+                .textarea2 .t400 .input_div ul li .input_login .input_login_bk form .div_input #loginDiv a {
+                  width: 67px;
+                  height: 30px;
+                  line-height: 30px;
+                  background: orange;
+                  color: white;
+                  text-align: center;
+                  display: inline-block;
+                  font-size: 12px; }
+                .textarea2 .t400 .input_div ul li .input_login .input_login_bk form .div_input #loginDiv .forgetPwd {
+                  margin-left: 20px;
+                  line-height: 30px;
+                  display: inline-block;
+                  vertical-align: top; }
+                  .textarea2 .t400 .input_div ul li .input_login .input_login_bk form .div_input #loginDiv .forgetPwd a {
+                    color: #666;
+                    background: #fff; }
+            .textarea2 .t400 .input_div ul li .input_login .input_login_bk form .gary_f2 {
+              font-size: 14px;
+              color: #333; }
+              .textarea2 .t400 .input_div ul li .input_login .input_login_bk form .gary_f2 a {
+                color: #3368ff; }
+              .textarea2 .t400 .input_div ul li .input_login .input_login_bk form .gary_f2 img {
+                vertical-align: middle;
+                display: inline-block; }
+            .textarea2 .t400 .input_div ul li .input_login .input_login_bk form .input_style {
+              width: 200px;
+              height: 26px;
+              border: 1px solid #dadada;
+              border-top: 1px solid #bababa; }
+
+.copyWrite {
+  margin-top: 10px; }
+  .copyWrite p {
+    font-size: 12px;
+    color: #666;
+    text-align: center; }

@@ -3,7 +3,7 @@ body, div, p, ul, ol, li, dl, dt, dd, table, tr, td, form, hr, fieldset, h1, h2,
   padding: 0; }
 
 ul {
-  list-style: none; }
+  list-style: none outside; }
 
 a {
   text-decoration: none; }
@@ -21,8 +21,7 @@ input, a, button {
 
 .textarea {
   width: 1200px;
-  margin: 0 auto;
-  overflow: hidden; }
+  margin: 0 auto; }
 
 .header {
   width: 100%;
@@ -54,7 +53,7 @@ input, a, button {
     padding: 10px 0;
     height: 60px;
     text-align: center;
-    background: url(../img/red.png) repeat-x #c33; }
+    background: url(../../img/red.png) repeat-x #c33; }
     .footer .footerRed a img {
       display: inline-block; }
   .footer .textarea .footerList {
@@ -102,7 +101,7 @@ input, a, button {
           margin: 0 2px;
           color: #999; }
           .footer .textarea .footerList .footerUl .span1 a .span2 {
-            background: url(../img/elf2.png);
+            background: url(../../img/elf2.png);
             display: inline-block;
             background-position: -26px -131px;
             width: 22px;
@@ -154,7 +153,7 @@ input, a, button {
       width: 128px;
       height: 50px;
       margin-right: 3px;
-      background: url(../img/friendLink.png) no-repeat;
+      background: url(../../img/friendLink.png) no-repeat;
       display: inline-block; }
     .footer .textarea .friendLinks .friendLink1 {
       background-position: -5px -2px; }
@@ -168,7 +167,7 @@ input, a, button {
       background-position: -404px -2px;
       width: 153px; }
     .footer .textarea .friendLinks .friendLink5 {
-      background: url(../img/friend.png) no-repeat;
+      background: url(../../img/friend.png) no-repeat;
       width: 150px; }
   .footer .textarea .qwer {
     text-align: center;
@@ -192,7 +191,7 @@ input, a, button {
       background-repeat: no-repeat;
       margin-right: 5px; }
       .footer .textarea .asdfghjkl a i {
-        background: url(../img/asd123.png);
+        background: url(../../img/asd123.png);
         background-size: 20px 20px;
         width: 20px;
         height: 20px;
@@ -209,4 +208,4 @@ input, a, button {
       width: 47px;
       height: 47px;
       background-position: -562px -2px;
-      background-image: url(../img/friendLink.png); }
+      background-image: url(../../img/friendLink.png); }
