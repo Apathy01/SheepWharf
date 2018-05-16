@@ -44,6 +44,69 @@
 .banner:hover .LRBtn {
   display: block; }
 
+.floatr {
+  width: 35px;
+  height: 100%;
+  position: fixed;
+  right: 0;
+  top: 0;
+  background: #383838;
+  color: #fff;
+  z-index: 11; }
+
+.float-inner {
+  padding: 270px 6px 0;
+  text-align: center; }
+
+.float-inner li {
+  border-bottom: 1px solid #979797;
+  padding-bottom: 18px;
+  position: relative; }
+
+.float-inner li a {
+  padding: 18px 0 7px;
+  display: block;
+  color: #fff; }
+
+.float-inner .position {
+  position: relative; }
+
+.position:hover .position-box {
+  display: block; }
+
+.position .position-box {
+  width: 90px;
+  position: absolute;
+  right: 29px;
+  top: 0;
+  background: #383838;
+  z-index: 0;
+  display: none; }
+
+.position-box img {
+  width: 60px;
+  margin-left: 15px;
+  margin-top: 10px; }
+
+.float-inner li a img {
+  width: 17px;
+  height: 17px;
+  display: inline-block;
+  vertical-align: middle; }
+
+.float-inner li a span {
+  font-size: 12px; }
+
+.float-inner .top a {
+  display: inline-block;
+  width: 17px;
+  height: 17px;
+  background: url(../img/sjx.png) no-repeat;
+  vertical-align: middle;
+  background-position: -102px 0;
+  padding: 0;
+  margin: 17px 0 0 0; }
+
 .promise {
   width: 100%;
   background: #f8f8f8;
