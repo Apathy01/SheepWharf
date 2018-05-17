@@ -1,3 +1,53 @@
+#box {
+  position: relative;
+  width: 754px;
+  height: 292px;
+  margin: 0 auto; }
+  #box ul {
+    position: relative;
+    width: 754px;
+    height: 292px;
+    margin-left: 20px; }
+    #box ul li {
+      position: absolute;
+      border: 2px solid #000;
+      list-style: none;
+      background: #000;
+      width: 0;
+      height: 0;
+      top: 146px;
+      left: 377px;
+      z-index: 0;
+      cursor: pointer;
+      overflow: hidden;
+      border-radius: 3px; }
+      #box ul li img {
+        width: 560px;
+        height: 100%;
+        vertical-align: top; }
+  #box .prevqwe {
+    position: absolute;
+    top: 50%;
+    width: 39px;
+    height: 80px;
+    margin-top: -40px;
+    overflow: hidden;
+    text-indent: -999px;
+    cursor: pointer; }
+  #box .nextqwe {
+    position: absolute;
+    top: 50%;
+    width: 39px;
+    height: 80px;
+    margin-top: -40px;
+    overflow: hidden;
+    text-indent: -999px;
+    cursor: pointer; }
+
+#copyright {
+  padding-top: 10px;
+  text-align: center; }
+
 .banner {
   width: 100%;
   position: relative; }
